@@ -2,26 +2,15 @@
 
 This machine was designed in Fablab O Shanghai as an education project for a class called "Planet Art". The course's aim is to assemble the frame of the machine and re-design some of the structure starting from the provided design \(mainly for the laser cut plates and 3d printed accessories\) and use the machine to experience 2d/3d graphic original creations, self-expression through artwork, machine control electronics and software. After the assembly, test and familiarization with a working machine, students create artworks exploring the many possibilities of human-machine co-creation. The structure and parts of the machine is the result of many iterations and the sum of the improved design from instructors and students.
 
-![drawing machine 01](Video and Images/drawing machine 02.jpg)
-
 ## Images
 
 We are in the process of designing an assembly guide. Meanwhile you can refer to some images and videos to understand how the machine is assembled. Simple clue: the process is pretty easy and straightforward :\)
 
 ![drawing machine 01](https://github.com/user-attachments/assets/38117025-fab5-4521-a566-8a78b2ef64ea)
 
-![drawing machine 01](Video and Images/drawing machine 01.jpg)
-
-
 https://github.com/user-attachments/assets/a65ea840-8418-48a9-89da-1990fa7389ae
 
-
-
 ## A little history
-
-
-
-
 
 The  structure of the machine is based on a design by **Daniele Ingrassia @satsha** for a basic machine frame to be assembled in a short workshop he gave at the **STEAM Education International Symposium of Shanghai** in 2019 organised by Fablab O Shanghai and Tongji University College of Design and Innovation. His clever and simple structure using only 20x20 aluminum frames, angle joints, t-nuts, linear guides and two laser cut parts, became part of  Fablab O Shanghai inventory and Saverio Silli @saverio used it as the base for this drawing machine.
 
@@ -39,6 +28,7 @@ The machine has some notable characteristics worth mentioning:
 
 [Find all the Design files in this page](Design Files)
 
+![drawing machine 02](https://github.com/user-attachments/assets/5616386c-466b-4ebc-9d8c-349421c44752)
 
 ## Machine Control
 
@@ -48,6 +38,6 @@ The machine uses an Arduino Uno with CNC Shield and A4988 Stepper drivers with G
 
 ## Bill of Materials
 
-[Find all the Design files in this page](Design Files/Material List 2022.pdf)
+[Material List 2022.pdf](https://github.com/user-attachments/files/25831540/Material.List.2022.pdf)
 
 The material list provides links on Taobao to buy the materials and a description about the materials. For more details you can check the taobao link.
