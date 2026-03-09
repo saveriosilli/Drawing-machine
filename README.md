@@ -35,12 +35,12 @@ The machine has some notable characteristics worth mentioning:
 
 Aside from the design of the machine structure, a thorough work has been done to polish and troubleshoot the code and workflow to ensure the software installation and operation to be as straightforward as possible. A modified GRBL for Servo library is provided, and several tips are listed covering the most common solutions for a successful operation.
 
-[Find more info on the Electronic system in this page](electronic/README.md)
+[Find more info on the Electronic system in this page](electronics/README.md)
 
 The machine uses an Arduino Uno with CNC Shield and A4988 Stepper drivers with GRBL for Servo firmware. We suggest to operate the machine through Inventables' Easel.
 
 ## Bill of Materials
 
-[Find all the BOM in this page](design-files/Material List 2022.pdf)
+[Find all the BOM in this page](Material List 2022.pdf)
 
 The material list provides links on Taobao to buy the materials and a description about the materials. For more details you can check the taobao link.
