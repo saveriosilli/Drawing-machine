@@ -8,9 +8,13 @@ This machine was designed in Fablab O Shanghai as an education project for a cla
 
 We are in the process of designing an assembly guide. Meanwhile you can refer to some images and videos to understand how the machine is assembled. Simple clue: the process is pretty easy and straightforward :\)
 
+![drawing machine 01](https://github.com/user-attachments/assets/38117025-fab5-4521-a566-8a78b2ef64ea)
+
 ![drawing machine 01](Video and Images/drawing machine 01.jpg)
 
-<video src="Video and Images/brush drawing.mp4" width="600" controls></video>
+
+https://github.com/user-attachments/assets/a65ea840-8418-48a9-89da-1990fa7389ae
+
 
 
 ## A little history
