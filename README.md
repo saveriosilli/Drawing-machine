@@ -6,7 +6,7 @@ This machine was designed in Fablab O Shanghai as an education project for a cla
 
 We are in the process of designing an assembly guide. Meanwhile you can refer to some images and videos to understand how the machine is assembled. Simple clue: the process is pretty easy and straightforward :\)
 
-[View brush drawing.mp4 @ Wikifactory](https://wikifactory.com/@saverio/drawing-machine/file/Video%20and%20Images/brush%20drawing.mp4)
+[Video of Brush Drwaing](Video and Images/brush drawing.mp4)
 
 [View drawing machine 01.jpg @ Wikifactory](https://wikifactory.com/@saverio/drawing-machine/file/Video%20and%20Images/drawing%20machine%2001.jpg)
 
