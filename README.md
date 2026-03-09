@@ -26,7 +26,7 @@ The machine has some notable characteristics worth mentioning:
 * the size of the machine can be customised
 * pen lift is virtually free of any wobbling and can accept several types of pens and other drawing media or be customised to accept different tools
 
-[Find all the Design files in this page](Design Files)
+[Find all the Design files in this page](./Design Files)
 
 ![drawing machine 02](https://github.com/user-attachments/assets/5616386c-466b-4ebc-9d8c-349421c44752)
 
