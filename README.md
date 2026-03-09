@@ -2,16 +2,15 @@
 
 This machine was designed in Fablab O Shanghai as an education project for a class called "Planet Art". The course's aim is to assemble the frame of the machine and re-design some of the structure starting from the provided design \(mainly for the laser cut plates and 3d printed accessories\) and use the machine to experience 2d/3d graphic original creations, self-expression through artwork, machine control electronics and software. After the assembly, test and familiarization with a working machine, students create artworks exploring the many possibilities of human-machine co-creation. The structure and parts of the machine is the result of many iterations and the sum of the improved design from instructors and students.
 
-![drawing machine 01](video-images/drawing-machine-02.jpg)
+https://github.com/user-attachments/assets/3ad980b2-f0f4-412e-b6a9-14be8d8319f2
 
 ## Images
 
 We are in the process of designing an assembly guide. Meanwhile you can refer to some images and videos to understand how the machine is assembled. Simple clue: the process is pretty easy and straightforward :\)
 
-
 ![drawing machine 01](video-images/drawing-machine-01.jpg)
 
-<video src="video-images/brush-drawing.mp4" width="600" controls></video>
+![drawing machine 01](video-images/drawing-machine-02.jpg)
 
 ## A little history
 
