@@ -21,7 +21,7 @@ Your Arduino should be equipped with a CNC shield. Make sure the shield has:
 
 5. Stepper motors correctly connected to the 4 pins connector next to the driver \(if motor rotate in the wrong direction, just reverse the connector
 
-![grbl-parameters.png](electronics/grbl-parameters.png)
+![grbl-parameters.png](/electronics/grbl-parameters.png)
 
 ## Notes on the servo motor operation
 
